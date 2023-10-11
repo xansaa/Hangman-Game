@@ -6,7 +6,7 @@ def choose_word(category):
                  "Portugal", "Turkey", "Romania", "Serbia", "Slovakia", "Slovenia", "Moldova", "Russia", "Latvia",
                  "Malta"]
     capitals = ["Sofia", "Paris", "Berlin", "Rome", "Madrid", "Brussels", "Copenhagen", "Amsterdam", "Oslo", "Warsaw",
-               "Lisbon", "Istanbul", "Bucharest", "Belgrade", "Bratislava", "Moscow", "Valletta"]
+               "Lisbon", "Ankara", "Bucharest", "Belgrade", "Bratislava", "Moscow", "Valletta"]
     football_clubs = ["CSKA", "PSG", "Bayren", "Inter", "Barcelona", "Gent", "Ajax", "Legia", "Galatasaray", "Porto",
                      "Partizan", "Spartak", "Real", "Milan", "Juventus", "Liverpool", "Arsenal", "Levski", "Valencia"]
 
